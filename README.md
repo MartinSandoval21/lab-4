@@ -4,7 +4,6 @@ The messaging application starts with the creation of a user, then they can acce
 
 ## User Stories
 
-### Account Management
 1. As a new user, I want to sign up so that I can send and receive messages.
 2. As a new user, I want to have a unique username so that others can easily identify me.
 3. As a user, I want to log in so that I can access my account.
@@ -18,7 +17,7 @@ The messaging application starts with the creation of a user, then they can acce
 11. As a user, I want to use my account on multiple devices so that my chats stay synced.
 12. As a user, I want to delete my account so I can protect my privacy when I stop using the service.
 
-### Conversation List
+
 13. As a user, I want to see all my conversations in one list so I can quickly find ongoing chats.
 14. As a user, I want to sort conversations by most recent activity so I can see the latest updates first.
 15. As a user, I want to see unread message counts so I can prioritize responses.
@@ -29,7 +28,7 @@ The messaging application starts with the creation of a user, then they can acce
 20. As a user, I want to see timestamps for each conversation so I know how recent messages are.
 21. As a user, I want to see contact avatars in the list so I can visually recognize chats.
 
-### Messaging
+
 22. As a user, I want to type and send text messages so I can communicate with others.
 23. As a user, I want to see delivery/read status so I know if my message was received.
 24. As a user, I want to see when someone is typing so I can wait for their response.
